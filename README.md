@@ -27,15 +27,21 @@ Choose Train Model or Load Pretrained Model
 If training, save the trained model
 Upload an image containing handwritten digits
 View detected digits and their predicted labels
+
+
 ##📦 Input Image Format
 Supported formats: jpg, jpeg, png
 Images may contain multiple digits
 Each digit is extracted and classified individually
+
+
 ##🔧 Possible Improvements
 Add HOG or other advanced image features
 Improve image preprocessing and segmentation
 Include more models in the ensemble
 Export predictions to a file
+
+
 ##🛠️ Technologies Used
 Python
 scikit-learn
